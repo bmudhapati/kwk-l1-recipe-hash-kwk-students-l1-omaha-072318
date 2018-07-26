@@ -2,8 +2,9 @@
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 
+def recipe_ingredients(perfect_10_recipe)
 perfect_10_recipe = {}
-def recipe_ingredients(perfect_10_recipe) = {:almond_flour => "2 cups", :gluten_freewhole_oats => "1 cup", :kosher_salt => "1/2 tea spoon", :baking_powder => "1/2 tea spoon", :baking_soda => "1/4 tea spoon", :Xanthan_Gum => "1/2 tea spoon", :slivered_almonds_lightly_toasted => "1/4 cup", :mini_dark_chocolate => "3/4 cup", :olive_oil => "1/2 cup", :agave => "1/4 cup"}
+perfect_10_recipe = {:almond_flour => "2 cups", :gluten_freewhole_oats => "1 cup", :kosher_salt => "1/2 tea spoon", :baking_powder => "1/2 tea spoon", :baking_soda => "1/4 tea spoon", :Xanthan_Gum => "1/2 tea spoon", :slivered_almonds_lightly_toasted => "1/4 cup", :mini_dark_chocolate => "3/4 cup", :olive_oil => "1/2 cup", :agave => "1/4 cup"}
 end
 
 #  - almond flour - 2 cups
